@@ -15,7 +15,7 @@ I design security systems that reduce blast radius, enforce least privilege, and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhmahfuzurrahman&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rhmahfuzurrahman&theme=dark&hide_border=true" />
 </p>
 
 ---
