@@ -4,19 +4,31 @@
   <img src="https://raw.githubusercontent.com/rhmahfuzurrahman/rhmahfuzurrahman/main/banner.png" />
 </p>
 
-Cybersecurity Architect specializing in Zero Trust, cloud security, and identity-centric architecture.
+## 👋 Hi, I'm Mahfuzur Rahman
 
-— SecYork Technology
+**Cybersecurity Architect** specializing in **Zero Trust, Cloud Security, and Identity-centric Architecture**.
 
-### About
-Mahfuzur Rahman (also known as Md Mahfuzur Rahman) is a Cybersecurity Architect with 13+ years of international experience across Singapore, APAC, and the United States.
+I design security systems that reduce blast radius, enforce least privilege, and remain auditable at scale.
 
-### Focus Areas
-- Cybersecurity Architecture
+---
+
+### 🔐 Focus Areas
 - Zero Trust Architecture
 - Cloud Security (AWS, Azure)
 - Identity & Access Management (IAM)
 - Security Architecture & GRC
+- Risk-driven design & governance
 
-🔗 LinkedIn: https://www.linkedin.com/in/rh-mahfuzur-rahman/
+---
+
+### 📂 Featured Work
+- **SecYork Technology** – Security architecture advisory & research
+- **Security Architecture Notes** – Practical Zero Trust & IAM references
+
+---
+
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/rh-mahfuzur-rahman/
+- Website: https://www.findmephotography.com/about-mahfuzur-rahman
+
 
