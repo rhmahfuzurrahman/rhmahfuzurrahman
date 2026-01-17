@@ -32,3 +32,10 @@ I design security systems that reduce blast radius, enforce least privilege, and
 - Website: https://www.findmephotography.com/about-mahfuzur-rahman
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhmahfuzurrahman&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhmahfuzurrahman&theme=dark&hide_border=true" />
+</p>
