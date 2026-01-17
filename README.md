@@ -1,5 +1,9 @@
 ## Mahfuzur Rahman
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rhmahfuzurrahman/rhmahfuzurrahman/main/banner.png" />
+</p>
+
 Cybersecurity Architect specializing in Zero Trust, cloud security, and identity-centric architecture.
 
 — SecYork Technology
