@@ -10,6 +10,7 @@
 
 I design security systems that reduce blast radius, enforce least privilege, and remain auditable at scale.
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rhmahfuzurrahman&show_icons=true&theme=dark&hide_border=true" />
 </p>
@@ -17,7 +18,7 @@ I design security systems that reduce blast radius, enforce least privilege, and
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rhmahfuzurrahman&theme=dark&hide_border=true" />
 </p>
-
+-->
 ---
 
 ### 🔐 Focus Areas
