@@ -10,6 +10,8 @@
 
 I design security systems that reduce blast radius, enforce least privilege, and remain auditable at scale.
 
+---
+
 ### How to read this GitHub
 
 This GitHub is not a collection of code samples.  
