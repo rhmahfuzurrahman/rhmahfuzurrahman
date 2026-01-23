@@ -10,6 +10,19 @@
 
 I design security systems that reduce blast radius, enforce least privilege, and remain auditable at scale.
 
+### How to read this GitHub
+
+This GitHub is not a collection of code samples.  
+It reflects how I think about **security architecture** in real enterprise environments.
+
+You’ll find:
+- Architecture patterns and reference designs
+- Identity, access, network, and platform security models
+- Security design mapped to risk, scale, and auditability
+- Practical notes drawn from real-world systems
+
+Each repository focuses on *design intent, trade-offs, and architectural decisions* rather than tools or implementations.
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rhmahfuzurrahman&show_icons=true&theme=dark&hide_border=true" />
