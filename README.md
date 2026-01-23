@@ -46,8 +46,8 @@ Each repository focuses on *design intent, trade-offs, and architectural decisio
 ---
 
 ### 📂 Featured Work
-- **SecYork Technology – Enterprise security architecture advisory, design research, and governance models
-- **Security Architecture Notes – Architecture patterns, identity & access decision models, and real-world design trade-offs
+- SecYork Technology – Enterprise security architecture advisory, design research, and governance models
+- Security Architecture Notes – Architecture patterns, identity & access decision models, and real-world design trade-offs
 
 
 ---
