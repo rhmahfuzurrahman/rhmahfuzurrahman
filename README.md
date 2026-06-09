@@ -54,4 +54,4 @@ Each repository focuses on *design intent, trade-offs, and architectural decisio
 
 ### 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/rh-mahfuzur-rahman/
-- Website: https://www.findmephotography.com/about-mahfuzur-rahman
+- Website: https://www.mahfuzurrahman.tech/
